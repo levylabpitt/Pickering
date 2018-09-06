@@ -215,13 +215,4 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
 	</Item>
-	<Item Name="Pickering 4 wire-3VoltageAmps.vi" Type="VI" URL="../Pickering 4 wire-3VoltageAmps.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$C!!!!#Q!-1$$`````!D)W!!!11%!!!@````]!!!)S.A!!%%"!!!(`````!!!#-D=!!""!1!!"`````Q!!!D)Y!!!/1%!!!@````]!!!%R!!1!!!!/1%!!!@````]!!!%V!!Z!1!!"`````Q!!!41!$E"!!!(`````!!!"-Q!/1%!!!@````]!!!%S!&amp;1!]!!-!!%!!A!$!!1!"1!&amp;!!5!"1!'!!=!#!!*!Q!!?!!##!!!!AA!!!))!!!##!!!!!!!!!!!!!!!!!!!!!!!!!))!!!##!!!!AA!!!))!!!!!!%!#A!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
-	</Item>
 </LVClass>
