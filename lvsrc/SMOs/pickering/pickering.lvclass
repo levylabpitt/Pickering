@@ -121,6 +121,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
+		<Item Name="WritePickeringConfig.vi" Type="VI" URL="../subVI/WritePickeringConfig.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+8!!!!%A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!7U!7!"U#4E-#-D9#-D=#-DA"-1%S!4-".!%V!49".Q%Y!4E#-4!#-4%#-4)#-4-#-41#-45#-49#-4=#-4A#-4E#-D!#-D%#-D)#-D-#-D1#-D5!"%6O&gt;7U!!":!1!!"`````Q!'#56M:7.U=G^E:1!31$$`````#5.I97ZO:7QA?!!91%!!!@````]!#!J9)%.I97ZO:7RT!!"0!0%!!!!!!!!!!B&amp;Q;7.L:8*J&lt;G=O&lt;(:D&lt;'&amp;T=RR1;7.L:8*J&lt;G&gt;91W^O:GFH,5.M&gt;8.U:8)O9X2M!"B!5!!#!!=!#1BY)'.P&lt;G:J:Q!!#U!'!!23;7ZH!!!31%!!!@````]!#Q6-97*F&lt;!!31$$`````#5.I97ZO:7QA?1!=1%!!!P``````````!!U+73"$;'&amp;O&lt;G6M=Q!!4Q$R!!!!!!!!!!)2='FD;W6S;7ZH,GRW9WRB=X-=5'FD;W6S;7ZH75.P&lt;G:J:SV$&lt;(6T&gt;'6S,G.U&lt;!!91&amp;!!!A!-!!Y)?3"D&lt;WZG;7=!!&amp;9!]1!!!!!!!!!#%8"J9WNF=GFO:SZM&gt;G.M98.T'V"J9WNF=GFO:U.P&lt;G:J:SV$&lt;(6T&gt;'6S,G.U&lt;!!A1&amp;!!!A!+!!]15'FD;W6S;7ZH)%.P&lt;G:J:Q!!6!$Q!!Q!!Q!%!!1!"!!%!!1!"!!%!!5!"!!1!!1$!!"Y!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!#A!!!!!!!!!!!1!2!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
+		</Item>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Channels-Array.ctl" Type="VI" URL="../Typedefs/Channels-Array.ctl">
@@ -152,6 +161,33 @@
 		</Item>
 		<Item Name="ChannelY-ComboBox.ctl" Type="VI" URL="../Typedefs/ChannelY-ComboBox.ctl">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"/!!!!!1"'!0%!!!!!!!!!!B&amp;Q;7.L:8*J&lt;G=O&lt;(:D&lt;'&amp;T=R6$;'&amp;O&lt;G6M73V$&lt;WVC&lt;U*P?#ZD&gt;'Q!&amp;E!Q`````QF$;'&amp;O&lt;G6M)(E!!1!!!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
+		</Item>
+		<Item Name="PickeringXConfig-Cluster.ctl" Type="VI" URL="../Typedefs/PickeringXConfig-Cluster.ctl">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$S!!!!"1"&lt;1"9!(1*/1Q)S.A)S.Q)S/!%R!4)"-Q%U!45".A%X!4A"/1)R-!)R-1)R-A)R-Q)R.!)R.1)R.A)R.Q)R/!)R/1)S-!)S-1)S-A)S-Q)S.!)S.1!%27ZV&lt;1!!&amp;E"!!!(`````!!!*27RF9X2S&lt;W2F!"*!-0````]*1WBB&lt;GZF&lt;#"Y!"B!1!!"`````Q!##FAA1WBB&lt;GZF&lt;(-!!%]!]1!!!!!!!!!#%8"J9WNF=GFO:SZM&gt;G.M98.T(&amp;"J9WNF=GFO:VB$&lt;WZG;7=N1WRV=X2F=CZD&gt;'Q!'%"1!!)!!1!$#(AA9W^O:GFH!!!"!!1!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
+		</Item>
+		<Item Name="PickeringYConfig-Cluster.ctl" Type="VI" URL="../Typedefs/PickeringYConfig-Cluster.ctl">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#C!!!!"1!,1!9!"&amp;*J&lt;G=!!"*!1!!"`````Q!!"5RB9G6M!"*!-0````]*1WBB&lt;GZF&lt;#"Z!"R!1!!#``````````]!!AJ:)%.I97ZO:7RT!!"0!0%!!!!!!!!!!B&amp;Q;7.L:8*J&lt;G=O&lt;(:D&lt;'&amp;T=RR1;7.L:8*J&lt;G&gt;:1W^O:GFH,5.M&gt;8.U:8)O9X2M!"B!5!!#!!%!!QBZ)'.P&lt;G:J:Q!!!1!%!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
+		</Item>
+		<Item Name="PickeringConfig-Cluster.ctl" Type="VI" URL="../Typedefs/PickeringConfig-Cluster.ctl">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(9!!!!#Q"&lt;1"9!(1*/1Q)S.A)S.Q)S/!%R!4)"-Q%U!45".A%X!4A"/1)R-!)R-1)R-A)R-Q)R.!)R.1)R.A)R.Q)R/!)R/1)S-!)S-1)S-A)S-Q)S.!)S.1!%27ZV&lt;1!!&amp;E"!!!(`````!!!*27RF9X2S&lt;W2F!"*!-0````]*1WBB&lt;GZF&lt;#"Y!"B!1!!"`````Q!##FAA1WBB&lt;GZF&lt;(-!!%]!]1!!!!!!!!!#%8"J9WNF=GFO:SZM&gt;G.M98.T(&amp;"J9WNF=GFO:VB$&lt;WZG;7=N1WRV=X2F=CZD&gt;'Q!'%"1!!)!!1!$#(AA9W^O:GFH!!!,1!9!"&amp;*J&lt;G=!!"*!1!!"`````Q!&amp;"5RB9G6M!"*!-0````]*1WBB&lt;GZF&lt;#"Z!"R!1!!#``````````]!"QJ:)%.I97ZO:7RT!!"0!0%!!!!!!!!!!B&amp;Q;7.L:8*J&lt;G=O&lt;(:D&lt;'&amp;T=RR1;7.L:8*J&lt;G&gt;:1W^O:GFH,5.M&gt;8.U:8)O9X2M!"B!5!!#!!9!#!BZ)'.P&lt;G:J:Q!!4!$R!!!!!!!!!!)2='FD;W6S;7ZH,GRW9WRB=X-&lt;5'FD;W6S;7ZH1W^O:GFH,5.M&gt;8.U:8)O9X2M!":!5!!#!!1!#1&gt;D&lt;(6T&gt;'6S!!%!#A!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
@@ -198,21 +234,21 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 	<Item Name="Pickering 4 wire PPMS Puck.vi" Type="VI" URL="../Pickering 4 wire PPMS Puck.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$C!!!!#Q!-1$$`````!D)W!!!11%!!!@````]!!!)S.A!!%%"!!!(`````!!!#-D=!!""!1!!"`````Q!!!D)Y!!!/1%!!!@````]!!!%R!!1!!!!/1%!!!@````]!!!%V!!Z!1!!"`````Q!!!41!$E"!!!(`````!!!"-Q!/1%!!!@````]!!!%S!&amp;1!]!!-!!%!!A!$!!1!"1!&amp;!!5!"1!'!!=!#!!*!Q!!?!!##!!!!AA!!!))!!!##!!!!!!!!!!!!!!!!!!!!!!!!!))!!!##!!!!AA!!!))!!!!!!%!#A!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!':!!!!&amp;!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$%!Q`````Q)S.A!!%%"!!!(`````!!9#-D9!!""!1!!"`````Q!'!D)X!!!11%!!!@````]!"A)S/!!!$E"!!!(`````!!9"-1!/1%!!!@````]!"A%S!!Z!1!!"`````Q!'!4-!$E"!!!(`````!!9".!!/1%!!!@````]!"A%V!""!1!!"`````Q!'!D)U!!!11%!!!@````]!"A)S.1!!$E"!!!(`````!!9".A!M1&amp;!!#Q!(!!A!#1!+!!M!$!!.!!Y!$Q!1!"%01WBB&lt;GZF&lt;#"$&lt;(6T&gt;'6S!&amp;1!]!!-!!-!"!!%!!1!"!!%!!1!"!!&amp;!!1!%A!%!Q!!?!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!A!!!!!!!!!!!%!%Q!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 	<Item Name="Pickering 4 wire PPMS DR.vi" Type="VI" URL="../Pickering 4 wire PPMS DR.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$C!!!!#Q!-1$$`````!D)W!!!11%!!!@````]!!!)S.A!!%%"!!!(`````!!!#-D=!!""!1!!"`````Q!!!D)Y!!!/1%!!!@````]!!!%R!!1!!!!/1%!!!@````]!!!%V!!Z!1!!"`````Q!!!41!$E"!!!(`````!!!"-Q!/1%!!!@````]!!!%S!&amp;1!]!!-!!%!!A!$!!1!"1!&amp;!!5!"1!'!!=!#!!*!Q!!?!!##!!!!AA!!!))!!!##!!!!!!!!!!!!!!!!!!!!!!!!!))!!!##!!!!AA!!!))!!!!!!%!#A!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;F!!!!%1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$%!Q`````Q)S.A!!%%"!!!(`````!!9#-D9!!""!1!!"`````Q!'!D)X!!!11%!!!@````]!"A)S/!!!$E"!!!(`````!!9"-1!/1%!!!@````]!"A%S!!Z!1!!"`````Q!'!4-!$E"!!!(`````!!9".!!/1%!!!@````]!"A%V!#:!5!!)!!=!#!!*!!I!#Q!-!!U!$A^$;'&amp;O&lt;G6M)%.M&gt;8.U:8)!6!$Q!!Q!!Q!%!!1!"!!%!!1!"!!%!!5!"!!0!!1$!!"Y!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!#!!!!!!!!!!!!1!1!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 </LVClass>
