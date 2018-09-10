@@ -130,6 +130,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
 		</Item>
+		<Item Name="ReadPickeringConfig.vi" Type="VI" URL="../subVI/ReadPickeringConfig.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+8!!!!%A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;N!&amp;A!&gt;!EZ$!D)W!D)X!D)Y!4%"-A%T!41".1%W!4="/!%Z!D%Q!D%R!D%S!D%T!D%U!D%V!D%W!D%X!D%Y!D%Z!D)Q!D)R!D)S!D)T!D)U!D)V!!2&amp;&lt;H6N!!!71%!!!@````]!"1F&amp;&lt;'6D&gt;(*P:'5!%E!Q`````QF$;'&amp;O&lt;G6M)(A!'%"!!!(`````!!=+7#"$;'&amp;O&lt;G6M=Q!!4Q$R!!!!!!!!!!)2='FD;W6S;7ZH,GRW9WRB=X-=5'FD;W6S;7ZH7%.P&lt;G:J:SV$&lt;(6T&gt;'6S,G.U&lt;!!91&amp;!!!A!'!!A)?#"D&lt;WZG;7=!!!N!"A!%5GFO:Q!!%E"!!!(`````!!I&amp;4'&amp;C:7Q!%E!Q`````QF$;'&amp;O&lt;G6M)(E!(%"!!!,``````````Q!-#FEA1WBB&lt;GZF&lt;(-!!%]!]1!!!!!!!!!#%8"J9WNF=GFO:SZM&gt;G.M98.T(&amp;"J9WNF=GFO:VF$&lt;WZG;7=N1WRV=X2F=CZD&gt;'Q!'%"1!!)!#Q!.#(EA9W^O:GFH!!"7!0%!!!!!!!!!!B&amp;Q;7.L:8*J&lt;G=O&lt;(:D&lt;'&amp;T=RN1;7.L:8*J&lt;G&gt;$&lt;WZG;7=N1WRV=X2F=CZD&gt;'Q!)%"1!!)!#1!/%&amp;"J9WNF=GFO:S"$&lt;WZG;7=!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!6!$Q!!Q!!Q!%!!]!"!!%!!1!"!!%!"!!"!!%!!1$!!"Y!!!*!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!!!!!!!!!1!2!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
+		</Item>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Channels-Array.ctl" Type="VI" URL="../Typedefs/Channels-Array.ctl">
