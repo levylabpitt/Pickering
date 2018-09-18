@@ -10,7 +10,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="pickering.lvclass" Type="LVClass" URL="../SMOs/pickering/pickering.lvclass"/>
+		<Item Name="build support" Type="Folder">
+			<Item Name="Pickering.vipb" Type="Document" URL="../../build support/Pickering.vipb"/>
+		</Item>
+		<Item Name="pickering.lvclass" Type="LVClass" URL="../pickering.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="pi40iv Close.vi" Type="VI" URL="/&lt;instrlib&gt;/pi40iv/pi40iv.llb/pi40iv Close.vi"/>
